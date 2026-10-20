@@ -1,0 +1,24 @@
+shot,source,source_in_seconds,source_out_seconds,timeline_in_seconds,timeline_out_seconds,description,framing
+1,7.mp4,23.2,24.7,0.0,1.5,"A smile, immediately",portrait
+2,13.jpg.jpg,still,still,1.5,3.033333333333333,Flowers for the day,photo
+3,2.mp4,6.3,7.8,3.033333333333333,4.533333333333333,One brief location cue,normal
+4,6.mp4,0.25,2.55,4.533333333333333,6.833333333333333,Bouquet detail,normal
+5,7.mp4,2.6,5.633333333333333,6.833333333333333,9.866666666666667,Receiving flowers,interaction
+6,7.mp4,10.2,12.466666666666665,9.866666666666667,12.133333333333333,Genuine appreciation,interaction
+7,7.mp4,29,31.3,12.133333333333333,14.433333333333334,Flowers shared,interaction
+8,5.mp4,0.45,2.716666666666667,14.433333333333334,16.7,Clapping and laughter,interaction
+9,9.mp4,0.45,2.716666666666667,16.7,18.966666666666665,Smiling together,group
+10,5.mp4,3.3,5.6,18.966666666666665,21.266666666666666,A candid table conversation,interaction
+11,7.mp4,36.0,39.03333333333333,21.266666666666666,24.3,Sharing the moment,interaction
+12,1.mp4,10.3,12.600000000000001,24.3,26.6,A playful pool-table moment,interaction
+13,6.mp4,2.8,4.3,26.6,28.1,Sharing bouquets and a smile,bouquet
+14,18.mp4,0.1,0.8666666666666667,28.1,28.866666666666667,"Food detail, briefly",food
+15,19.mp4,0.3,3.3,28.866666666666667,31.866666666666667,A smile across dinner,interaction
+16,18.mp4,3.15,5.449999999999999,31.866666666666667,34.166666666666664,Dining together,normal
+17,19.mp4,3.9,6.166666666666666,34.166666666666664,36.43333333333333,Conversation along the table,normal
+18,15.mp4,1.7,3.2333333333333334,36.43333333333333,37.96666666666667,A careful wooden-block move,interaction
+19,16.mp4,4.8,7.1,37.96666666666667,40.266666666666666,Watching the tower,interaction
+20,14.mp4,5.6,7.866666666666666,40.266666666666666,42.53333333333333,Playful reaction,interaction
+21,9.mp4,3.1,5.366666666666667,42.53333333333333,44.8,The last smiles,group
+22,12.mp4,1.5,8.333333333333332,44.8,51.63333333333333,"Flowers raised, together",group
+23,11.jpg.jpg,still,still,51.63333333333333,60.0,A living memory / personal note,ending

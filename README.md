@@ -2,7 +2,15 @@
 
 A 60-second Vietnamese Women's Day memory film for TCiM, dated October 20, 2026.
 
-## Latest version — V2
+## Latest version — V3 Final Cinematic Edition
+
+[Watch / download V3](deliverables/V3/20_10_A_Day_With_Us_V3_FINAL.mp4)
+
+Rebuilt from the original media: closer human moments, a concise wooden-block game sequence, and a cream photo-album ending with Cormorant Garamond Semibold and stable character-by-character lettering. The complete greeting holds for more than two seconds.
+
+[V3 shot list, contact sheet, QC and improvements](deliverables/V3/README.md)
+
+## Previous version — V2
 
 [Watch / download V2](deliverables/V2/20_10_A_Day_With_Us_V2.mp4)
 

@@ -1,0 +1,172 @@
+[
+  {
+    "file": "1.mp4",
+    "duration": 19.766667,
+    "width": 720,
+    "height": 1280,
+    "fps": "17760/593",
+    "codec": "h264",
+    "used_in_v3": true,
+    "representative_frames": 5
+  },
+  {
+    "file": "2.mp4",
+    "duration": 8.733333,
+    "width": 720,
+    "height": 1280,
+    "fps": "3915/131",
+    "codec": "h264",
+    "used_in_v3": true,
+    "representative_frames": 5
+  },
+  {
+    "file": "3.mp4",
+    "duration": 17.6,
+    "width": 720,
+    "height": 1280,
+    "fps": "2635/88",
+    "codec": "h264",
+    "used_in_v3": false,
+    "representative_frames": 5
+  },
+  {
+    "file": "4.mp4",
+    "duration": 7.666667,
+    "width": 720,
+    "height": 1280,
+    "fps": "681/23",
+    "codec": "h264",
+    "used_in_v3": false,
+    "representative_frames": 5
+  },
+  {
+    "file": "5.mp4",
+    "duration": 30.9,
+    "width": 720,
+    "height": 1280,
+    "fps": "9260/309",
+    "codec": "h264",
+    "used_in_v3": true,
+    "representative_frames": 5
+  },
+  {
+    "file": "6.mp4",
+    "duration": 13.2,
+    "width": 720,
+    "height": 1280,
+    "fps": "1975/66",
+    "codec": "h264",
+    "used_in_v3": true,
+    "representative_frames": 5
+  },
+  {
+    "file": "7.mp4",
+    "duration": 43.033333,
+    "width": 720,
+    "height": 1280,
+    "fps": "38670/1291",
+    "codec": "h264",
+    "used_in_v3": true,
+    "representative_frames": 5
+  },
+  {
+    "file": "8.mp4",
+    "duration": 9.233333,
+    "width": 720,
+    "height": 1280,
+    "fps": "8280/277",
+    "codec": "h264",
+    "used_in_v3": false,
+    "representative_frames": 5
+  },
+  {
+    "file": "9.mp4",
+    "duration": 5.566667,
+    "width": 720,
+    "height": 1280,
+    "fps": "4980/167",
+    "codec": "h264",
+    "used_in_v3": true,
+    "representative_frames": 5
+  },
+  {
+    "file": "12.mp4",
+    "duration": 8.566667,
+    "width": 720,
+    "height": 1280,
+    "fps": "7680/257",
+    "codec": "h264",
+    "used_in_v3": true,
+    "representative_frames": 5
+  },
+  {
+    "file": "14.mp4",
+    "duration": 13.433333,
+    "width": 720,
+    "height": 1280,
+    "fps": "12060/403",
+    "codec": "h264",
+    "used_in_v3": true,
+    "representative_frames": 5
+  },
+  {
+    "file": "15.mp4",
+    "duration": 10.966667,
+    "width": 720,
+    "height": 1280,
+    "fps": "9840/329",
+    "codec": "h264",
+    "used_in_v3": true,
+    "representative_frames": 5
+  },
+  {
+    "file": "16.mp4",
+    "duration": 10.466667,
+    "width": 720,
+    "height": 1280,
+    "fps": "4695/157",
+    "codec": "h264",
+    "used_in_v3": true,
+    "representative_frames": 5
+  },
+  {
+    "file": "17.mp4",
+    "duration": 3.666667,
+    "width": 720,
+    "height": 1280,
+    "fps": "327/11",
+    "codec": "h264",
+    "used_in_v3": false,
+    "representative_frames": 5
+  },
+  {
+    "file": "18.mp4",
+    "duration": 5.533333,
+    "width": 720,
+    "height": 1280,
+    "fps": "2475/83",
+    "codec": "h264",
+    "used_in_v3": true,
+    "representative_frames": 5
+  },
+  {
+    "file": "19.mp4",
+    "duration": 7.2,
+    "width": 720,
+    "height": 1280,
+    "fps": "1075/36",
+    "codec": "h264",
+    "used_in_v3": true,
+    "representative_frames": 5
+  },
+  {
+    "file": "20.mp4",
+    "duration": 4.633333,
+    "width": 720,
+    "height": 1280,
+    "fps": "4140/139",
+    "codec": "h264",
+    "used_in_v3": false,
+    "representative_frames": 5
+  }
+]
