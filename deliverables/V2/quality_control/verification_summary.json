@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 60.0,
+  "video_frames": 1800,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "frame_rate": "30/1",
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_duration_seconds": 60.0,
+  "full_decode_passed": true,
+  "black_intervals": [],
+  "audio_mean_db": "-13.8",
+  "audio_peak_db": "-2.4",
+  "visual_review": "60 timeline samples plus every shot midpoint, opening contrast review, ending layout and incremental typewriter states",
+  "real_time_audiovisual_playback_review": false,
+  "ending_start": 48.6,
+  "main_first_character": 49.49592002571241,
+  "main_complete": 51.24233492161828,
+  "support_complete": 56.68172822446428,
+  "complete_message_hold_seconds": 3.3182717755357203,
+  "fonts": [
+    "Cormorant Garamond Medium",
+    "DM Sans Regular"
+  ]
+}
