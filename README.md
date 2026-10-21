@@ -2,7 +2,15 @@
 
 A 60-second Vietnamese Women's Day memory film for TCiM, dated October 20, 2026.
 
-## Latest requested revision — V2 updated
+## Latest requested revision — V2 with newly supplied ending photo
+
+[Watch / download the final updated video](deliverables/V2_New_Ending/20_10_A_Day_With_Us_UPDATED.mp4)
+
+Exterior opens the film; the opening smile moves into the flower sequence. The ending now uses the exact PNG supplied by the user. Original soundtrack and 60-second runtime are retained.
+
+[Revision details and verification](deliverables/V2_New_Ending/README.md)
+
+## Previous requested revision — V2 updated
 
 [Watch / download the updated V2](deliverables/V2_Updated/20_10_A_Day_With_Us_V2_Updated.mp4)
 

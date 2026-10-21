@@ -1,0 +1,11 @@
+{
+  "duration_seconds": 60,
+  "frames": 1800,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "full_decode_passed": true,
+  "audio_unchanged_sha256_match": true,
+  "new_photo_start_seconds": 48.6
+}

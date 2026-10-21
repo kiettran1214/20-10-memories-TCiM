@@ -1,0 +1,31 @@
+{
+  "base": "repository deliverables/V2/20_10_A_Day_With_Us_V2.mp4; uploaded video exceeds 32 MiB transfer limit",
+  "fps": 30,
+  "duration_seconds": 60,
+  "source_frame_order": [
+    [
+      45,
+      136
+    ],
+    [
+      136,
+      251
+    ],
+    [
+      0,
+      45
+    ],
+    [
+      251,
+      1800
+    ]
+  ],
+  "new_smile_time": [
+    6.866666666666666,
+    8.366666666666667
+  ],
+  "audio": "original continuous track copied unchanged",
+  "ending_status": "New supplied PNG replaces ending photograph from 48.6 seconds; existing greeting animation and audio retained.",
+  "final_photo_start_seconds": 48.6,
+  "ending_image": "new_ending.png"
+}
