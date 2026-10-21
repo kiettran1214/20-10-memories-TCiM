@@ -2,6 +2,14 @@
 
 A 60-second Vietnamese Women's Day memory film for TCiM, dated October 20, 2026.
 
+## Latest requested revision — V2 updated
+
+[Watch / download the updated V2](deliverables/V2_Updated/20_10_A_Day_With_Us_V2_Updated.mp4)
+
+Hotel exterior and entrance appear before people. The ending uses the original group photograph corresponding to the selected reference. Runtime remains 60 seconds.
+
+[Revision details and checks](deliverables/V2_Updated/README.md)
+
 ## Latest version — V3 Final Cinematic Edition
 
 [Watch / download V3](deliverables/V3/20_10_A_Day_With_Us_V3_FINAL.mp4)
